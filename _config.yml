@@ -14,10 +14,10 @@ owner:
   bio:            "https://about.me/balwa"
   email:          tanmay@balwa.me
   # Social networking links used in footer. Update and remove as you like.
-  twitter: https://twitter.com/thebalwa
-  facebook: https://www.facebook.com/balwa
-  github: https://github.com/balwa
-  linkedin: https://in.linkedin.com/in/balwa
+  twitter: thebalwa
+  facebook: balwa
+  github: balwa
+  linkedin: balwa
 
 
 # Background image to be tiled on all pages
