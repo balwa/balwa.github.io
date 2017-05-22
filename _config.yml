@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Noted
+email:       tanmay@balwa.me
+author:      Tanmay Balwa
+description: "Another hope filled effort to start taking notes"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "https://balwa.me"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -48,16 +48,16 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: balwa
 bitbucket_username:
-stackoverflow_id:
+stackoverflow_id: balwa
 twitter_username:
 skype_username:
 steam_nickname:
 google_plus_id:
-linkedin_username:
-angellist_username:
-medium_id:
+linkedin_username: balwa
+angellist_username: balwa
+medium_id: balwa
 bitcoin_url:
 paypal_url:
 flattr_button:
@@ -107,7 +107,7 @@ text:
       sending:  'sending..'
       sent:     'Message sent!'
       error:    'Error!'
-  thanks: 'Thanks for contacting us. We will reply as soon as possible.'
+  thanks: 'Thanks for contacting me. I will reply as soon as possible.'
   og_locale: 'en_US'
 
 # Build settings
