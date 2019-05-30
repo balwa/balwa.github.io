@@ -12,12 +12,15 @@
     
     
     <item>
-      <title>admin</title>
+      <title></title>
       <link>/authors/admin/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
-      <description></description>
+      <description>Welcome! Welcome!
+My self-marketing script goes like this:
+&amp;ldquo;T-shaped skills combined with humility to accept the boundaries of knowledge and the fallibility in running complex cloud architectures. Hence pledge to the checklist manifesto.&amp;rdquo;
+I prefer digital nomad SRE/DevOps opportunities.</description>
     </item>
     
   </channel>

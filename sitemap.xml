@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -25,12 +30,6 @@
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tutorial/example/</loc>
     <lastmod>2018-09-09T00:00:00+05:30</lastmod>
   </url>
@@ -38,15 +37,6 @@
   <url>
     <loc>/tutorial/</loc>
     <lastmod>2018-09-09T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
