@@ -4,28 +4,51 @@
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-31T07:10:55+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <loc>/tags/2019/</loc>
+    <lastmod>2019-05-31T07:10:55+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/jupyter/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <loc>/authors/</loc>
+    <lastmod>2019-05-31T07:10:55+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/2019/hello_world/</loc>
+    <lastmod>2019-05-31T07:10:55+05:30</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-31T07:10:55+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
+    <lastmod>2019-05-31T07:10:55+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-05-31T07:10:55+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/first-post/</loc>
+    <lastmod>2019-05-31T07:10:55+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/jupyter/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,11 +91,6 @@
   
   <url>
     <loc>/slides/example/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
