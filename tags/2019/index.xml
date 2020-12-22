@@ -1,28 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2019 on Notelet</title>
+    <title>2019 | Notelet</title>
     <link>/tags/2019/</link>
-    <description>Recent content in 2019 on Notelet</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 31 May 2019 07:10:55 +0530</lastBuildDate>
-    
-	<atom:link href="/tags/2019/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/tags/2019/index.xml" rel="self" type="application/rss+xml" />
+    <description>2019</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 31 May 2019 07:10:55 +0530</lastBuildDate>
+    <image>
+      <url>img/map[comment_count:%!s(bool=true) docs_section_pager:%!s(bool=true) gravatar:%!s(bool=false) menu_align_right:%!s(bool=false) reading_time:%!s(bool=true) section_pager:%!s(bool=false) shape:circle sharing:%!s(bool=false)]</url>
+      <title>2019</title>
+      <link>/tags/2019/</link>
+    </image>
     
     <item>
       <title>Hello World!</title>
       <link>/post/2019/hello_world/</link>
       <pubDate>Fri, 31 May 2019 07:10:55 +0530</pubDate>
-      
       <guid>/post/2019/hello_world/</guid>
-      <description>Buddha&amp;rsquo;s words of Dhamma:
- Paṇḍito sīlasampanno jalaṃ aggīva bhāsati; bhoge saṃharamānassa bhamarasseva irīyato.
-Dīgha Nikāya 3.265
- English translation:
-One who is virtuous and wise shines forth like a blazing fire; like a bee collecting nectar one acquires wealth by harming none.
-Sharing a wonderful documentary: https://vimeo.com/ondemand/queenofthesun</description>
+      <description>&lt;p&gt;Buddha&amp;rsquo;s words of Dhamma:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Paṇḍito sīlasampanno
+jalaṃ aggīva bhāsati;
+bhoge saṃharamānassa
+bhamarasseva irīyato.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Dīgha Nikāya 3.265&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;English translation:&lt;/p&gt;
+&lt;p&gt;One who is virtuous and wise
+shines forth like a blazing fire;
+like a bee collecting nectar
+one acquires wealth by harming none.&lt;/p&gt;
+&lt;p&gt;Sharing a wonderful documentary: &lt;a href=&#34;https://vimeo.com/ondemand/queenofthesun&#34;&gt;https://vimeo.com/ondemand/queenofthesun&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
