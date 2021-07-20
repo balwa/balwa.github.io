@@ -1,88 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/authors/admin/</loc>
     <lastmod>2019-05-31T07:10:55+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/2019/</loc>
     <lastmod>2019-05-31T07:10:55+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/</loc>
     <lastmod>2019-05-31T07:10:55+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/first-post/</loc>
     <lastmod>2019-05-31T07:10:55+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2019/hello_world/</loc>
     <lastmod>2019-05-31T07:10:55+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/</loc>
     <lastmod>2019-05-31T07:10:55+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/</loc>
     <lastmod>2019-05-31T07:10:55+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
     <lastmod>2019-05-31T07:10:55+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/jupyter/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tutorial/example/</loc>
     <lastmod>2018-09-09T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tutorial/</loc>
     <lastmod>2018-09-09T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/about/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication_types/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/slides/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/slides/example/</loc>
   </url>
-  
 </urlset>
