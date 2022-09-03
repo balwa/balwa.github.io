@@ -7,7 +7,7 @@
     <description>Notelet</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 May 2019 07:10:55 +0530</lastBuildDate>
     <image>
-      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Notelet</title>
       <link>/</link>
     </image>
@@ -32,7 +32,7 @@ bhamarasseva irīyato.&lt;/em&gt;&lt;/p&gt;
 shines forth like a blazing fire;
 like a bee collecting nectar
 one acquires wealth by harming none.&lt;/p&gt;
-&lt;p&gt;Sharing a wonderful documentary: &lt;a href=&#34;https://vimeo.com/ondemand/queenofthesun&#34;&gt;https://vimeo.com/ondemand/queenofthesun&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sharing a wonderful documentary: &lt;a href=&#34;https://www.amazon.com/Queen-Sun-What-Bees-Telling/dp/B00715QPXI/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.amazon.com/Queen-Sun-What-Bees-Telling/dp/B00715QPXI/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -103,7 +103,7 @@ rm Untitled.md
     <item>
       <title>Example Page</title>
       <link>/tutorial/example/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
       <guid>/tutorial/example/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
@@ -172,15 +172,15 @@ $$&lt;/p&gt;
 {{% fragment %}} Three {{% /fragment %}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One
+&lt;span class=&#34;fragment &#34; &gt;
+   One 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt;
+   **Two** 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-Three
-&lt;/span&gt;&lt;/p&gt;
+   Three 
+&lt;/span&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
 &lt;ul&gt;
