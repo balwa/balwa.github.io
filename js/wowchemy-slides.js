@@ -2,7 +2,7 @@
   // ns-params:@params
   var slides = { theme: "black" };
 
-  // ns-hugo:/var/folders/4q/p6g_0gxj3lz2643rvtjc65q80000gn/T/hugo_cache/modules/filecache/modules/pkg/mod/github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5@v5.0.0-20210717140502-1db799ea7431/assets/js/wowchemy-utils.js
+  // ns-hugo:/var/folders/4q/p6g_0gxj3lz2643rvtjc65q80000gn/T/hugo_cache_tanmay/modules/filecache/modules/pkg/mod/github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5@v5.0.0-20210717140502-1db799ea7431/assets/js/wowchemy-utils.js
   function fixMermaid(render = false) {
     let mermaids = [];
     [].push.apply(mermaids, document.getElementsByClassName("language-mermaid"));
