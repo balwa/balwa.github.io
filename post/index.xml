@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Notelet</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://balwa.me/post/</link>
+      <atom:link href="https://balwa.me/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 May 2019 07:10:55 +0530</lastBuildDate>
     <image>
-      <url>/media/icon_hu_c703c8ec78199c13.png</url>
+      <url>https://balwa.me/media/icon_hu_c703c8ec78199c13.png</url>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>https://balwa.me/post/</link>
     </image>
     
     <item>
       <title>Hello World!</title>
-      <link>/post/2019/hello_world/</link>
+      <link>https://balwa.me/post/2019/hello_world/</link>
       <pubDate>Fri, 31 May 2019 07:10:55 +0530</pubDate>
-      <guid>/post/2019/hello_world/</guid>
+      <guid>https://balwa.me/post/2019/hello_world/</guid>
       <description>&lt;p&gt;Buddha&amp;rsquo;s words of Dhamma:&lt;/p&gt;
 
 
@@ -50,9 +50,9 @@ one acquires wealth by harming none.&lt;/p&gt;
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>/post/jupyter/</link>
+      <link>https://balwa.me/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/post/jupyter/</guid>
+      <guid>https://balwa.me/post/jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;

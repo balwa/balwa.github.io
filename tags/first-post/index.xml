@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>First-Post | Notelet</title>
-    <link>/tags/first-post/</link>
-      <atom:link href="/tags/first-post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://balwa.me/tags/first-post/</link>
+      <atom:link href="https://balwa.me/tags/first-post/index.xml" rel="self" type="application/rss+xml" />
     <description>First-Post</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 May 2019 07:10:55 +0530</lastBuildDate>
     <image>
-      <url>/media/icon_hu_c703c8ec78199c13.png</url>
+      <url>https://balwa.me/media/icon_hu_c703c8ec78199c13.png</url>
       <title>First-Post</title>
-      <link>/tags/first-post/</link>
+      <link>https://balwa.me/tags/first-post/</link>
     </image>
     
     <item>
       <title>Hello World!</title>
-      <link>/post/2019/hello_world/</link>
+      <link>https://balwa.me/post/2019/hello_world/</link>
       <pubDate>Fri, 31 May 2019 07:10:55 +0530</pubDate>
-      <guid>/post/2019/hello_world/</guid>
+      <guid>https://balwa.me/post/2019/hello_world/</guid>
       <description>&lt;p&gt;Buddha&amp;rsquo;s words of Dhamma:&lt;/p&gt;
 
 

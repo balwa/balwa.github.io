@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Slides | Notelet</title>
-    <link>/slides/</link>
-      <atom:link href="/slides/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://balwa.me/slides/</link>
+      <atom:link href="https://balwa.me/slides/index.xml" rel="self" type="application/rss+xml" />
     <description>Slides</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>/media/icon_hu_c703c8ec78199c13.png</url>
+      <url>https://balwa.me/media/icon_hu_c703c8ec78199c13.png</url>
       <title>Slides</title>
-      <link>/slides/</link>
+      <link>https://balwa.me/slides/</link>
     </image>
     
     <item>
       <title>Slides</title>
-      <link>/slides/example/</link>
+      <link>https://balwa.me/slides/example/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/slides/example/</guid>
+      <guid>https://balwa.me/slides/example/</guid>
       <description>&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
 &lt;p&gt;
 &lt;/p&gt;
