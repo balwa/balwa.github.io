@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Categories | Notelet</title>
-    <link>https://balwa.me/categories/</link>
-      <atom:link href="https://balwa.me/categories/index.xml" rel="self" type="application/rss+xml" />
-    <description>Categories</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language>
-    <image>
-      <url>https://balwa.me/media/icon_hu_c703c8ec78199c13.png</url>
-      <title>Categories</title>
-      <link>https://balwa.me/categories/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories | Notelet</title><link>https://balwa.me/categories/</link><atom:link href="https://balwa.me/categories/index.xml" rel="self" type="application/rss+xml"/><description>Categories</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><image><url>https://balwa.me/media/icon_hu_c703c8ec78199c13.png</url><title>Categories</title><link>https://balwa.me/categories/</link></image></channel></rss>

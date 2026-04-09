@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags | Notelet</title>
-    <link>https://balwa.me/tags/</link>
-      <atom:link href="https://balwa.me/tags/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tags</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 May 2019 07:10:55 +0530</lastBuildDate>
-    <image>
-      <url>https://balwa.me/media/icon_hu_c703c8ec78199c13.png</url>
-      <title>Tags</title>
-      <link>https://balwa.me/tags/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags | Notelet</title><link>https://balwa.me/tags/</link><atom:link href="https://balwa.me/tags/index.xml" rel="self" type="application/rss+xml"/><description>Tags</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 May 2019 07:10:55 +0530</lastBuildDate><image><url>https://balwa.me/media/icon_hu_c703c8ec78199c13.png</url><title>Tags</title><link>https://balwa.me/tags/</link></image></channel></rss>

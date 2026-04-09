@@ -1,52 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>2019 | Notelet</title>
-    <link>https://balwa.me/tags/2019/</link>
-      <atom:link href="https://balwa.me/tags/2019/index.xml" rel="self" type="application/rss+xml" />
-    <description>2019</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 May 2019 07:10:55 +0530</lastBuildDate>
-    <image>
-      <url>https://balwa.me/media/icon_hu_c703c8ec78199c13.png</url>
-      <title>2019</title>
-      <link>https://balwa.me/tags/2019/</link>
-    </image>
-    
-    <item>
-      <title>Hello World!</title>
-      <link>https://balwa.me/post/2019/hello_world/</link>
-      <pubDate>Fri, 31 May 2019 07:10:55 +0530</pubDate>
-      <guid>https://balwa.me/post/2019/hello_world/</guid>
-      <description>&lt;p&gt;Buddha&amp;rsquo;s words of Dhamma:&lt;/p&gt;
-
-
-
-  
-  &lt;blockquote class=&#34;border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6&#34;&gt;
-    &lt;p&gt;&lt;em&gt;Paṇḍito sīlasampanno
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2019 | Notelet</title><link>https://balwa.me/tags/2019/</link><atom:link href="https://balwa.me/tags/2019/index.xml" rel="self" type="application/rss+xml"/><description>2019</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 May 2019 07:10:55 +0530</lastBuildDate><image><url>https://balwa.me/media/icon_hu_c703c8ec78199c13.png</url><title>2019</title><link>https://balwa.me/tags/2019/</link></image><item><title>Hello World!</title><link>https://balwa.me/post/2019/hello_world/</link><pubDate>Fri, 31 May 2019 07:10:55 +0530</pubDate><guid>https://balwa.me/post/2019/hello_world/</guid><description>&lt;p&gt;Buddha&amp;rsquo;s words of Dhamma:&lt;/p&gt;
+&lt;blockquote class="border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6"&gt;
+&lt;p&gt;&lt;em&gt;Paṇḍito sīlasampanno
 jalaṃ aggīva bhāsati;
 bhoge saṃharamānassa
 bhamarasseva irīyato.&lt;/em&gt;&lt;/p&gt;
-
-  &lt;/blockquote&gt;
-
-
-
-
-  
-  &lt;blockquote class=&#34;border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6&#34;&gt;
-    &lt;p&gt;&lt;strong&gt;Dīgha Nikāya 3.265&lt;/strong&gt;&lt;/p&gt;
-
-  &lt;/blockquote&gt;
-
+&lt;/blockquote&gt;
+&lt;blockquote class="border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6"&gt;
+&lt;p&gt;&lt;strong&gt;Dīgha Nikāya 3.265&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;English translation:&lt;/p&gt;
 &lt;p&gt;One who is virtuous and wise
 shines forth like a blazing fire;
 like a bee collecting nectar
 one acquires wealth by harming none.&lt;/p&gt;
-&lt;p&gt;Sharing a wonderful documentary: &lt;a href=&#34;https://www.amazon.com/Queen-Sun-What-Bees-Telling/dp/B00715QPXI/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.amazon.com/Queen-Sun-What-Bees-Telling/dp/B00715QPXI/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;Sharing a wonderful documentary: &lt;a href="https://www.amazon.com/Queen-Sun-What-Bees-Telling/dp/B00715QPXI/" target="_blank" rel="noopener"&gt;https://www.amazon.com/Queen-Sun-What-Bees-Telling/dp/B00715QPXI/&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>

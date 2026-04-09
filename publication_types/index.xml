@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Publication_types | Notelet</title>
-    <link>https://balwa.me/publication_types/</link>
-      <atom:link href="https://balwa.me/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publication_types</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language>
-    <image>
-      <url>https://balwa.me/media/icon_hu_c703c8ec78199c13.png</url>
-      <title>Publication_types</title>
-      <link>https://balwa.me/publication_types/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publication_types | Notelet</title><link>https://balwa.me/publication_types/</link><atom:link href="https://balwa.me/publication_types/index.xml" rel="self" type="application/rss+xml"/><description>Publication_types</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><image><url>https://balwa.me/media/icon_hu_c703c8ec78199c13.png</url><title>Publication_types</title><link>https://balwa.me/publication_types/</link></image></channel></rss>
